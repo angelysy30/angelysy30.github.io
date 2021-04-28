@@ -14,43 +14,43 @@ html{
 #cream{
     position: absolute;
     left: 645px;
-    top: 48%;
+    top: 55%;
 }
 
 #cleanser{
     position: absolute;
     left: 550px;
-    top: 39%;
+    top: 47%;
 }
 
 #mask{
     position: absolute;
     left: 430px;
-    top: 45%;
+    top: 54%;
 }
 
 #eye {
     position: absolute;
     left:280px;
-    top: 30%; 
+    top: 40%; 
 }
 
 #skii1{
     position: absolute;
     left:220px;
-    top: 24%;
+    top: 35%;
 }
 
 #skii2{
     position: absolute;
     left:120px;
-    top: 24%;
+    top: 35%;
 }
 
 #serum{
     position: absolute;
     left:810px;
-    top: 27%;
+    top: 36%;
 }
 
 @keyframes updown{
